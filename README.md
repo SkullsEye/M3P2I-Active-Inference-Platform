@@ -2,6 +2,16 @@
 
 A reactive task and motion planning platform combining **Multi-Modal MPPI** control with **Active Inference Planning** for robotic manipulation and navigation. Rollouts are evaluated in NVIDIA IsaacGym for massively parallel GPU-accelerated simulation.
 
+<p align="center">
+  <img src="docs/images/2d_navigation_with_rollouts.png" width="45%" alt="2D Navigation with Rollouts"/>
+  <img src="docs/images/3d_navigation.png" width="45%" alt="3D Navigation"/>
+</p>
+
+<p align="center">
+  <img src="docs/images/behavior_tree.png" width="45%" alt="Behavior Tree"/>
+  <img src="docs/images/cost_functions.png" width="45%" alt="Cost Functions"/>
+</p>
+
 ## Features
 
 - Multi-modal trajectory optimization with automatic mode switching (push, pull, pick, place)
